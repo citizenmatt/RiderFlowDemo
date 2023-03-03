@@ -1,0 +1,41 @@
+{
+  "79d29428c6583a849b5691cc18a88448": {
+    "sceneGuid": "f485d0eec0f34b24bbfa57f754c1f860",
+    "uniqueCameraId": "79d29428c6583a849b5691cc18a88448",
+    "name": "Nature in village",
+    "pointX": 22.5958824,
+    "pointY": -0.794023156,
+    "pointZ": -10.2576351,
+    "directionX": 0.01653831,
+    "directionY": -0.9662276,
+    "directionZ": 0.249096587,
+    "directionW": 0.0641439855,
+    "zoom": 2.89927816
+  },
+  "d32fb9da890e9484d93ce55bf31d2492": {
+    "sceneGuid": "f485d0eec0f34b24bbfa57f754c1f860",
+    "uniqueCameraId": "d32fb9da890e9484d93ce55bf31d2492",
+    "name": "MainHouse (check ground)",
+    "pointX": 6.476886,
+    "pointY": 0.6145964,
+    "pointZ": -8.559869,
+    "directionX": -0.005630158,
+    "directionY": 0.144981444,
+    "directionZ": 0.000827830343,
+    "directionW": 0.989437938,
+    "zoom": 1.84934855
+  },
+  "2c40e66d99f1ff641890239f67228182": {
+    "sceneGuid": "f485d0eec0f34b24bbfa57f754c1f860",
+    "uniqueCameraId": "2c40e66d99f1ff641890239f67228182",
+    "name": "Main house",
+    "pointX": 7.11828327,
+    "pointY": 0.619099,
+    "pointZ": -6.758898,
+    "directionX": 0.20745708,
+    "directionY": -0.717476368,
+    "directionZ": 0.240002856,
+    "directionW": 0.62018,
+    "zoom": 2.05065131
+  }
+}

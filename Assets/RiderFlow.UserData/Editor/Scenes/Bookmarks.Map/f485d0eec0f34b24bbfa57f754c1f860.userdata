@@ -1,0 +1,14 @@
+{
+  "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1290125285081394-245228391": {
+    "BookmarkText": "rpgpp_lt_rock_02",
+    "GameObjectId": "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1290125285081394-245228391",
+    "AssetGUID": "f485d0eec0f34b24bbfa57f754c1f860",
+    "UniqueItemID": "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1290125285081394-245228391"
+  },
+  "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1640908652775104-1157238677": {
+    "BookmarkText": "rpgpp_lt_building_01",
+    "GameObjectId": "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1640908652775104-1157238677",
+    "AssetGUID": "f485d0eec0f34b24bbfa57f754c1f860",
+    "UniqueItemID": "GlobalObjectId_V1-2-f485d0eec0f34b24bbfa57f754c1f860-1640908652775104-1157238677"
+  }
+}
